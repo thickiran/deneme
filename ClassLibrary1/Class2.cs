@@ -6,6 +6,7 @@ namespace ClassLibrary1
 {
     class Class2
     {
-        int c = 15;
+        int d = 15;
+
     }
 }
